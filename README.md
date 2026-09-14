@@ -20,7 +20,7 @@ The goal of this lab is to simulate basic SOC analyst activities in a controlled
                     ┌─────────────────────┐
                     │    Wazuh Manager    │
                     │    Ubuntu Server    │
-                    │     192.168.44.131   │
+                    │     192.168.44.131  │
                     └──────────┬──────────┘
                                │
                          VMware NAT
