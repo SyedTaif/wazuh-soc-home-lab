@@ -33,9 +33,8 @@ The goal of this lab is to simulate basic SOC analyst activities in a controlled
     │   windows-11    │                │      Machine     │
     │    Agent 001    │                │                  │
     └─────────────────┘                └──────────────────┘
-```markdown
-
-🔧 Technologies & Tools
+```
+## 🔧 Technologies & Tools
 Wazuh SIEM
 Wazuh Agent
 Windows 11
